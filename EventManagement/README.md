@@ -23,7 +23,6 @@ Make sure you have the following installed on your system:
 - Composer
 - Laravel
 - MySQL or PostgreSQL (or any other supported database)
-- Node.js and NPM
 
 ### Setup Instructions
 
@@ -65,8 +64,23 @@ Make sure you have the following installed on your system:
 
 ## Usage
 
-- Register/Login to access event features.
-- Create new events and manage existing ones.
-- View upcoming events.
-- Admins can manage all events and users.
+**Register/Login to access event features.**
+
+  ![image](https://github.com/user-attachments/assets/ab6d5a7b-8095-46f1-95dc-b27c1ead132d)
+
+  ![image](https://github.com/user-attachments/assets/7286e55f-9468-4bf0-aec4-8b5e2a34437b)
+
+**Users can view and register Events**
+
+  ![image](https://github.com/user-attachments/assets/3359f5a8-b49a-4f37-be4b-4610d23d1a4a)
+
+  ![image](https://github.com/user-attachments/assets/b1d6d072-0a61-42fc-9227-40d3ab6f0a73)
+
+**Admins can manage all events and users.**
+
+  ![image](https://github.com/user-attachments/assets/5699d3d8-758b-4851-9bbc-d3891257d6a2)
+
+  ![image](https://github.com/user-attachments/assets/69d7a572-d336-428c-b88f-4f3414483369)
+
+  ![image](https://github.com/user-attachments/assets/4d4ced0f-bccb-4340-8e9c-9f7d21177c64)
 
