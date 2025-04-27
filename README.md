@@ -15,7 +15,7 @@ This repository is a collection of various projects developed using the Laravel 
 - User Profiles
 - Admin Dashboard for Event Management
 
-> *More projects will be added soon! Stay tuned.*
+> *More projects will be added soon!*
 
 ## 🛠️ Technologies Used
 
