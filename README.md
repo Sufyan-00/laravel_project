@@ -3,7 +3,7 @@
 Welcome to my **Laravel Projects** repository!  
 This repository is a collection of various projects developed using the Laravel PHP framework. It serves as a portfolio of my learning journey and practical experience with Laravel.
 
-## 📂 Projects Included
+## Projects Included
 
 - **Event Management App**  
   A web application to manage events, registrations, and attendees.  
@@ -17,7 +17,7 @@ This repository is a collection of various projects developed using the Laravel 
 
 > *More projects will be added soon!*
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - PHP (Laravel Framework)
 - MySQL / SQLite (Database)
